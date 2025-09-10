@@ -1,0 +1,6 @@
+@Dress2Impress_HostAddress = http://localhost:5001
+
+GET {{Dress2Impress_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
